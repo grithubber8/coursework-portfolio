@@ -1,4 +1,4 @@
-# Eunice Agogo: Data and AI Portfolio
+# Eunice Agogo:  Data and AI Engineering Portfolio
 
 Selected coursework projects from my BBA in Big Data, AI and Management at Audencia Business School.
 
