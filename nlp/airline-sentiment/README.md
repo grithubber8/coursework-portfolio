@@ -188,4 +188,4 @@ airline-sentiment/
 
 ## Credits
 
-Course project for the Natural Language Processing course at École Centrale Casablanca (May 2026), by Eunice Agogo.
+_Course project for the Natural Language Processing course at École Centrale Casablanca (May 2026), by Eunice Agogo._
