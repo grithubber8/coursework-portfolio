@@ -1,6 +1,6 @@
 # Eunice Agogo:  Data and AI Engineering Portfolio
 
-BBA student in Big Data, AI and Management at **Audencia Business School** (Nantes, France), with an exchange semester at **École Centrale Casablanca** (March–May 2026). This repository collects my coursework projects, each with its method, results and limitations written up.
+BBA student in Big Data, AI and Management at **École Centrale de Nantes and Audencia Business School** (Nantes, France), with an exchange semester at **École Centrale Casablanca** (March–May 2026) and **Shenzhen University(SAFTI)** September 2026-January 2027. This repository collects my coursework projects, each with its method, results and limitations written up.
 
 ---
 
