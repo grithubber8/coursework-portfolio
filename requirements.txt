@@ -1,0 +1,13 @@
+# Libraries for nlp/airline-sentiment (install with: pip install -r requirements.txt)
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+wordcloud
+spacy
+transformers
+torch
+jupyter
+# One extra step after installing: python -m spacy download en_core_web_md

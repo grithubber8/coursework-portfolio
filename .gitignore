@@ -1,0 +1,23 @@
+# Datasets: link to the source in each project README instead of uploading
+data/
+*.csv
+
+# Large model files (GitHub blocks files over 100 MB)
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Notebook and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Operating system clutter
+.DS_Store
+Thumbs.db
+desktop.ini
